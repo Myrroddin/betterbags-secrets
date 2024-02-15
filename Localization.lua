@@ -23,6 +23,8 @@ local locale = GetLocale()
 if locale == "enUS" then
 -- this exists to make debugging and editing phrases on Curseforge easier
 -- and will be removed with packaged releases of zip files
+-- for enUS, the key must be a string, it cannot be a Boolean
+L["Secret Item: %s"] = "Secret Item: %s"
 end
 --@end-debug@
 if locale == "deDE" then
