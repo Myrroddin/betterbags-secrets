@@ -11,9 +11,7 @@ local L = BetterBags:GetModule("Localization") -- BetterBags' localizations
 local _, addon = ...
 local PL = addon.L -- get the plugin's localizatons
 
--- add the Tricked-Out Thinking Cap to a category
-local trickedOutThinkingCapName = addon.trickedOutThinkingCapName
-local trickedOutThinkingCapGroupItems = addon.trickedOutThinkingCapGroupItems
-for index in pairs(trickedOutThinkingCapGroupItems) do
-    categories:AddItemToCategory(index, L:G(string.format(PL["Secret Item: %s"], trickedOutThinkingCapName)))
+-- Secrets of Azeroth
+for itemID in pairs(addon.secretsOfAzeroth) do
+    categories:AddItemToCategory(itemID, L:G(PL["Secrets: Azeroth"]))
 end

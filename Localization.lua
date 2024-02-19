@@ -16,63 +16,63 @@ end })
 
 addon.L = L
 
--- enUS is the default; we do not need to explicitly define English phrases
+-- English is the default; we do not need to explicitly define English phrases
 local locale = GetLocale()
 
 --@debug@
-if locale == "enUS" then
+if locale == "enUS" or locale == "enGB" then
 -- this exists to make debugging and editing phrases on Curseforge easier
 -- and will be removed with packaged releases of zip files
--- for enUS, the key must be a string, it cannot be a Boolean
-L["Secret Item: %s"] = "Secret Item: %s"
-end
+-- for enUS or enGB, the key must be a string, it cannot be a Boolean
+L["Secrets: Azeroth"] = "Secrets: Azeroth"
+return end
 --@end-debug@
 if locale == "deDE" then
 -- German
 --@localization(locale="deDE", format="lua_table")@
-end
+return end
 
 if locale == "esES" then
 -- Spanish
 --@localization(locale="esES", format="lua_table")@
-end
+return end
 
 if locale == "esMX" then
 -- Latin American Spanish
 --@localization(locale="esMX", format="lua_table")@
-end
+return end
 
 if locale == "frFR" then
 -- French
 --@localization(locale="frFR", format="lua_table")@
-end
+return end
 
 if locale == "itIT" then
 -- Italian
 --@localization(locale="itIT", format="lua_table")@
-end
+return end
 
 if locale == "koKR" then
 -- Korean
 --@localization(locale="koKR", format="lua_table")@
-end
+return end
 
 if locale == "ptBR" then
 -- Brazillian Portuegese
 --@localization(locale="ptBR", format="lua_table")@
-end
+return end
 
 if locale == "ruRU" then
 -- Russian
 --@localization(locale="ruRU", format="lua_table")@
-end
+return end
 
 if locale == "zhCN" then
 -- Simplified Chinese
 --@localization(locale="zhCN", format="lua_table")@
-end
+return end
 
 if locale == "zhTW" then
 -- Traditional Chinese
 --@localization(locale="zhTW", format="lua_table")@
-end
+return end
