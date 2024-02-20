@@ -21,50 +21,50 @@ local locale = GetLocale()
 
 if locale == "deDE" then
 -- German
---@localization(locale="deDE", format="lua_table")@
+--@localization(locale="deDE", format="lua_additive_table")@
 return end
 
 if locale == "esES" then
 -- Spanish
---@localization(locale="esES", format="lua_table")@
+--@localization(locale="esES", format="lua_additive_table")@
 return end
 
 if locale == "esMX" then
 -- Latin American Spanish
---@localization(locale="esMX", format="lua_table")@
+--@localization(locale="esMX", format="lua_additive_table")@
 return end
 
 if locale == "frFR" then
 -- French
---@localization(locale="frFR", format="lua_table")@
+--@localization(locale="frFR", format="lua_additive_table")@
 return end
 
 if locale == "itIT" then
 -- Italian
---@localization(locale="itIT", format="lua_table")@
+--@localization(locale="itIT", format="lua_additive_table")@
 return end
 
 if locale == "koKR" then
 -- Korean
---@localization(locale="koKR", format="lua_table")@
+--@localization(locale="koKR", format="lua_additive_table")@
 return end
 
 if locale == "ptBR" then
 -- Brazillian Portuegese
---@localization(locale="ptBR", format="lua_table")@
+--@localization(locale="ptBR", format="lua_additive_table")@
 return end
 
 if locale == "ruRU" then
 -- Russian
---@localization(locale="ruRU", format="lua_table")@
+--@localization(locale="ruRU", format="lua_additive_table")@
 return end
 
 if locale == "zhCN" then
 -- Simplified Chinese
---@localization(locale="zhCN", format="lua_table")@
+--@localization(locale="zhCN", format="lua_additive_table")@
 return end
 
 if locale == "zhTW" then
 -- Traditional Chinese
---@localization(locale="zhTW", format="lua_table")@
+--@localization(locale="zhTW", format="lua_additive_table")@
 return end
