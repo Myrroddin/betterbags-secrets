@@ -10,7 +10,7 @@ The full list can be [viewed online](https://github.com/Myrroddin/betterbags-sec
 
 ## Downloads
 
-- [Curseforge](https://legacy.curseforge.com/wow/addons/betterbags-secrets)
+- [Curseforge](https://www.curseforge.com/wow/addons/betterbags-secrets)
 - [Wago AddOns](https://addons.wago.io/addons/betterbags-secrets)
 - [Wowinterface](https://www.wowinterface.com/downloads/info26694-BetterBags-Secrets.html)
 
