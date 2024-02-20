@@ -10,12 +10,12 @@ The full list can be [viewed online](https://github.com/Myrroddin/betterbags-sec
 
 ## Downloads
 
-- [Curseforge](https://www.curseforge.com/wow/addons/betterbags-archaeology)
-- [Wago AddOns](https://addons.wago.io/addons/betterbags-archaeology)
-- [Wowinterface](https://www.wowinterface.com/downloads/info26692-BetterBags-Archaeology.html)
+- [Curseforge](https://legacy.curseforge.com/wow/addons/betterbags-secrets)
+- [Wago AddOns](https://addons.wago.io/addons/betterbags-secrets)
+- [Wowinterface](https://www.wowinterface.com/downloads/info26694-BetterBags-Secrets.html)
 
 ## Translating
-You can contribute localizations of the plugin using Curseforge's online project localization tool. Help yourself and other users to enjoy a better experience using the plugin. The phrases and words will get updated as more secrets are added to the plugin and to the game.
+You can contribute localizations of the plugin using Curseforge's [online project localization tool](https://legacy.curseforge.com/wow/addons/betterbags-secrets/localization). Help yourself and other users to enjoy a better experience using the plugin. The phrases and words will get updated as more secrets are added to the plugin and the game.
 
 ## Bugs, Issues, and Improvements
 Please use [GitHub's issue tracker](https://github.com/Myrroddin/betterbags-secrets/issues) for the project. Thank you!

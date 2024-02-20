@@ -19,14 +19,6 @@ addon.L = L
 -- English is the default; we do not need to explicitly define English phrases
 local locale = GetLocale()
 
---@debug@
-if locale == "enUS" or locale == "enGB" then
--- this exists to make debugging and editing phrases on Curseforge easier
--- and will be removed with packaged releases of zip files
--- for enUS or enGB, the key must be a string, it cannot be a Boolean
-L["Secrets: Azeroth"] = "Secrets: Azeroth"
-return end
---@end-debug@
 if locale == "deDE" then
 -- German
 --@localization(locale="deDE", format="lua_table")@
