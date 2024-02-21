@@ -15,3 +15,13 @@ local PL = addon.L -- get the plugin's localizatons
 for itemID in pairs(addon.secretsOfAzeroth) do
     categories:AddItemToCategory(itemID, L:G(PL["Secrets: Azeroth"]))
 end
+
+-- Kosumoth the Hungering
+for itemID in pairs(addon.kosumoth) do
+    categories:AddItemToCategory(itemID, L:G(PL["Secrets: Kosumoth"]))
+end
+
+-- Uuna
+for itemID in pairs(addon.uuna) do
+    categories:AddItemToCategory(itemID, L:G(PL["Secrets: Uuna"]))
+end

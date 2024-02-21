@@ -1,5 +1,7 @@
 {
     "Lua.diagnostics.globals": [
-        "BankFrame"
+        "BankFrame",
+        "InterfaceOptionsFrame_OpenToCategory",
+        "Settings"
     ]
 }
