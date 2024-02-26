@@ -25,3 +25,8 @@ end
 for itemID in pairs(addon.uuna) do
     categories:AddItemToCategory(itemID, L:G(PL["Secrets: Uuna"]))
 end
+
+-- treasures
+for itemID in pairs(addon.treasures) do
+    categories:AddItemToCategory(itemID, L:G(PL["Secrets: Treasures"]))
+end
