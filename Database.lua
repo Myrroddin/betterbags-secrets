@@ -74,9 +74,13 @@ addon.uuna = uuna
 
 -- treasures that you dig up or the items that mark the map
 local treasures = {}
+-- Dragonflight
 treasures[191294] = true            -- Small Expedition Shovel
 treasures[191304] = true            -- Sturdy Expedition Shovel
 treasures[194540] = true            -- Nokhud Armorer's Notes
+treasures[195041] = true            -- Everliving Wooden Key
+treasures[195542] = true            -- Slumber Incense
+treasures[195884] = true            -- Crystalline Petal
 treasures[198843] = true            -- Emerald Gardens Explorer's Notes
 treasures[198852] = true            -- Bear Termination Orders
 treasures[198854] = true            -- Archeologist Artifact Notes
@@ -91,3 +95,30 @@ treasures[202081] = true            -- Dragon Isles Supply Bag (starts the quest
 
 -- return the data to Core.lua
 addon.treasures = treasures
+
+-- Honeyback Hive & Harvester
+local honeyback = {}
+honeyback[168825] = true            -- Rich Jelly
+honeyback[168828] = true            -- Royal Jelly
+honeyback[169109] = true            -- Beeholder's Goggles
+honeyback[169110] = true            -- Jelly Magnet
+honeyback[169133] = true            -- Crystallized Jelly
+honeyback[169141] = true            -- Butterfly Net
+honeyback[169395] = true            -- Summit Zephyr
+honeyback[169654] = true            -- Spiral Yeti Horn (begins a quest)
+honeyback[169655] = true            -- Hivekiller Stinger (begins a quest)
+honeyback[169656] = true            -- Envenomed Spider Fang (begins a quest)
+honeyback[169657] = true            -- Hivethief's Jelly Stash
+honeyback[169658] = true            -- Usurper's Scent Gland (begins a quest)
+honeyback[169659] = true            -- Old Nasha's Paw (begins a quest)
+honeyback[168822] = true            -- Thin Jelly
+honeyback[169152] = true            -- Empty Beehive
+honeyback[169858] = true            -- "Bee Bee" Gun
+honeyback[169860] = true            -- Tiny Dapper Hat
+honeyback[169862] = true            -- Alluring Bloom
+honeyback[169943] = true            -- Little Princess Cap
+honeyback[169944] = true            -- Minuscule Fez
+honeyback[172383] = true            -- Collected Tidebloom Honey
+
+-- return the data to Core.lua
+addon.honeyback = honeyback
