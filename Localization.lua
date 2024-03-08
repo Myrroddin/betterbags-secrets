@@ -20,7 +20,7 @@ local locale = GetLocale()
 
 if locale == "enUS" then
 -- English
---@localization(locale="enUS", format="lua_additive_table", handle-unlocalized="english")
+--@localization(locale="enUS", format="lua_additive_table")
 return end
 
 if locale == "deDE" then

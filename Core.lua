@@ -33,5 +33,5 @@ end
 
 -- Honeyback Hive & Honeyback Harvester
 for itemID in pairs(addon.honeyback) do
-    categories:AddItemToCategory(itemID, L:G(GetFactionInfoByID(2395)))
+    categories:AddItemToCategory(itemID, L:G(PL["Honeyback Hive"]))
 end
