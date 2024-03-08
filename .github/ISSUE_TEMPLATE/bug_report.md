@@ -16,7 +16,7 @@ Steps to reproduce the behavior:
 2. BetterBags version:
 3. BetterBags_Secrets version:
 4. Which game locale are you using:
-5. See error code
+5. Are you playing Alliance or Horde:
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
