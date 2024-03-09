@@ -15,8 +15,8 @@ Steps to reproduce the behavior:
 1. WoW version (Classic Era, hardcore, Season of..., Wrath, retail):
 2. BetterBags version:
 3. BetterBags_Secrets version:
-4. Which game locale are you using:
-5. Are you playing Alliance or Horde:
+4. Which game language are you using:
+5. Were you playing Alliance or Horde when you saw the error:
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.

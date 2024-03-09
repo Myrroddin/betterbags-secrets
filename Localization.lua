@@ -20,7 +20,13 @@ local locale = GetLocale()
 
 if locale == "enUS" then
 -- English
---@localization(locale="enUS", format="lua_additive_table")
+L["Honeyback Hive"] = "Honeyback Hive"
+L["Secrets: Azeroth"] = "Secrets: Azeroth"
+L["Secrets: Battle Pets"] = "Secrets: Battle Pets"
+L["Secrets: Kosumoth"] = "Secrets: Kosumoth"
+L["Secrets: Mounts"] =  "Secrets: Mounts"
+L["Secrets: Treasures"] = "Secrets: Treasures"
+L["Secrets: Uuna"] = "Secrets: Uuna"
 return end
 
 if locale == "deDE" then

@@ -122,3 +122,25 @@ honeyback[172383] = true            -- Collected Tidebloom Honey
 
 -- return the data to Core.lua
 addon.honeyback = honeyback
+
+-- items that you need to get rare mounts
+local mounts = {}
+mounts[161344]  = true              -- Abyssal Fragment
+mounts[161345]  = true              -- Abhorrent Essence of the Abyss
+
+-- return the data to Core.lua
+addon.mounts = mounts
+
+-- battle pets
+local battlePets = {}
+battlePets[158698] = true           -- Discarded Cell Key (quest item)
+battlePets[163699] = true           -- Annealed Honey Amulet
+battlePets[163780] = true           -- Raimond's Secret Ingredient (quest item)
+battlePets[163789] = true           -- Bundle of Wicker Sticks
+battlePets[163790] = true           -- Spooky Incantation
+battlePets[163791] = true           -- Miniature Stag Skull
+battlePets[163796] = true           -- Wolf Pup Spine
+battlePets[166242] = true           -- A Shady Message
+
+-- return the data to Core.lua
+addon.battlePets = battlePets

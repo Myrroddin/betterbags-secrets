@@ -35,3 +35,13 @@ end
 for itemID in pairs(addon.honeyback) do
     categories:AddItemToCategory(itemID, L:G(PL["Honeyback Hive"]))
 end
+
+-- mounts
+for itemID in pairs(addon.mounts) do
+    categories:AddItemToCategory(itemID, L:G(PL["Secrets: Mounts"]))
+end
+
+-- battle pets
+for itemID in pairs(addon.battlePets) do
+    categories:AddItemToCategory(itemID, L:G(PL["Secrets: Battle Pets"]))
+end
