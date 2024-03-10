@@ -125,6 +125,8 @@ addon.honeyback = honeyback
 
 -- items that you need to get rare mounts
 local mounts = {}
+mounts[86456]   = true              -- Sky Crystal
+mounts[86457]   = true              -- Skyshard
 mounts[161344]  = true              -- Abyssal Fragment
 mounts[161345]  = true              -- Abhorrent Essence of the Abyss
 
@@ -133,8 +135,16 @@ addon.mounts = mounts
 
 -- battle pets
 local battlePets = {}
+battlePets[80313] = true            -- Ling-Ting's Favorite Tea
 battlePets[158698] = true           -- Discarded Cell Key (quest item)
 battlePets[163699] = true           -- Annealed Honey Amulet
+battlePets[165852] = true           -- Alkalescent Salt (quest item)
+battlePets[166732] = true           -- Bludgeoning-Resistant Chest Reinforcer
+battlePets[166733] = true           -- Steel-Plated Primate Exoskeleton
+battlePets[166734] = true           -- Banana-Shaped Power Cell
+battlePets[166735] = true           -- Mecha-Spinneret
+battlePets[166737] = true           -- Handful of Glas Spider Eyes
+battlePets[166738] = true           -- Steel-Plated Arachnid Exoskeleton
 battlePets[163780] = true           -- Raimond's Secret Ingredient (quest item)
 battlePets[163789] = true           -- Bundle of Wicker Sticks
 battlePets[163790] = true           -- Spooky Incantation
