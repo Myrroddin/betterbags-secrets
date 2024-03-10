@@ -1,5 +1,5 @@
 package-as: BetterBags_Secrets
-wowi-archive-previous : no
+wowi-archive-previous: no
 
 required-dependencies
   - better-bags
