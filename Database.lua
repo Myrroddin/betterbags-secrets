@@ -126,7 +126,7 @@ addon.honeyback = honeyback
 -- items that you need to get rare mounts
 local mounts = {}
 mounts[86456]   = true              -- Sky Crystal
-mounts[86457]   = true              -- Skyshard
+mounts[86547]   = true              -- Skyshard
 mounts[161344]  = true              -- Abyssal Fragment
 mounts[161345]  = true              -- Abhorrent Essence of the Abyss
 
