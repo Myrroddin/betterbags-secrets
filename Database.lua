@@ -127,6 +127,7 @@ addon.honeyback = honeyback
 local mounts = {}
 mounts[86456]   = true              -- Sky Crystal
 mounts[86547]   = true              -- Skyshard
+mounts[174927]  = true              -- Zan-Tien Lasso
 mounts[161344]  = true              -- Abyssal Fragment
 mounts[161345]  = true              -- Abhorrent Essence of the Abyss
 
