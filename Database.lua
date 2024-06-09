@@ -4,6 +4,7 @@
 -- make certain BetterBags exists and is loaded
 assert(LibStub("AceAddon-3.0"):GetAddon("BetterBags"), "BetterBags_Secrets requires BetterBags")
 
+---@type string, table
 local _, addon = ...
 
 -- Secrets of Azeroth

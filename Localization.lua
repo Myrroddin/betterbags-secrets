@@ -6,6 +6,7 @@ assert(LibStub("AceAddon-3.0"):GetAddon("BetterBags"), "BetterBags_Secrets requi
 
 -- how to localize an addon: https://phanx.net/addons/tutorials/localize
 -- localization keyword substitutions: https://support.curseforge.com/en/support/solutions/articles/9000197354-localization-substitutions
+---@type string, table
 local _, addon = ...
 
 local L = setmetatable({}, { __index = function(t, k)
