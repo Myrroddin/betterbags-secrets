@@ -12,7 +12,7 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. WoW version (Classic Era, hardcore, Season of..., Wrath, retail):
+1. WoW version (Classic Era, hardcore, Season of..., Mists, retail):
 2. BetterBags version:
 3. BetterBags_Secrets version:
 4. Which game language are you using:

@@ -1,4 +1,4 @@
--- Copyright (c) 2024 Paul Vandersypen. All Rights Reserved.
+-- Copyright (c) 2024-2025 Paul Vandersypen. All Rights Reserved.
 -- See License.txt for more information
 
 -- make certain BetterBags exists and is loaded
@@ -7,7 +7,6 @@ assert(BetterBags, "BetterBags_Secrets requires BetterBags")
 
 local categories = BetterBags:GetModule("Categories")
 
----@class Localization: AceModule
 local BL = BetterBags:GetModule("Localization")
 
 ---@type string, table

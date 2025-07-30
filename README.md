@@ -3,7 +3,7 @@ Plugin module for the World of Warcraft AddOn [BetterBags](https://www.curseforg
 
 ## World of Warcraft Supported Versions
 
-- Mainline or retail. Currently, that is Dragonflight
+- Mainline or retail. Currently, that is The War Within
 
 ## Secrets? What are those?
 There are secret items scattered throughout World of Warcraft. Some of the items are pets, mounts, hunter pets, toys, and other things. [Wowhead](https://www.wowhead.com/guides/secrets) has several guides providing what the items are and how to collect them.
