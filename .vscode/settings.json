@@ -15,7 +15,8 @@
 		"LFG_LIST_LANGUAGE_ZHCN",
 		"LFG_LIST_LANGUAGE_ZHTW",
 		"LFG_LIST_LANGUAGE_ESES",
-		"LFG_LIST_LANGUAGE_ESMX"
+		"LFG_LIST_LANGUAGE_ESMX",
+		"MOUNTS"
 	],
     "Lua.runtime.version": "Lua 5.1",
     "Lua.runtime.builtin": {
