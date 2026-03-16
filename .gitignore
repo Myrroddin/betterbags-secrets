@@ -1,0 +1,39 @@
+# ----------------------------
+# OS-generated files
+# ----------------------------
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ----------------------------
+# Editor / IDE settings
+# ----------------------------
+.vscode/
+.idea/
+*.code-workspace
+
+# ----------------------------
+# Lua tooling / test artifacts
+# ----------------------------
+.luarocks/
+.lua/
+luac.out
+
+# ----------------------------
+# Addon packaging / release artifacts
+# ----------------------------
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+release/
+dist/
+build/
+
+# ----------------------------
+# Logs and temp files
+# ----------------------------
+*.log
+*.tmp
+*.swp
+*~
